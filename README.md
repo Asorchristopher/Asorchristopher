@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Asorchristopher
-- 👀 I’m interested in learning and understanding the blockchain and how it works
-- 🌱 I’m currently learning Blockchain Deleopment
+- 👀 I’m interested in learning and understanding how the blockchain works
+- 🌱 I’m currently learning Blockchain Development
 - 💞️ I’m looking to collaborate on Blockchain related projects
 - 📫 How to reach me +234 7085936545
 <!---
